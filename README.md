@@ -36,7 +36,7 @@ Una plataforma intuitiva para visualizar datos de manera elegante y eficiente.
 
 Me especializo en el desarrollo de soluciones que combinan estética y rendimiento, siempre buscando una experiencia única para cada usuario.
 
-## 🎤 Contacto y redes
+## 📬 Contacto y redes
 
 ✨ Siempre estoy abierto a nuevas colaboraciones e ideas. Hablemos y creemos juntos:
 
