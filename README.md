@@ -18,7 +18,7 @@ Soy un desarrollador apasionado por la intersección entre arte, tecnología y f
 
 ## 🛠️ Proyectos Destacados
 
-### [🎨 Proyecto Artístico Interactivo][juantapias.dev](https://github.com/juantapias/portfolio)
+### [🎨 Proyecto Artístico Interactivo](https://github.com/juantapias/portfolio)
 
 Un espacio donde el arte digital cobra vida con interacciones dinámicas y experiencias inmersivas.
 
