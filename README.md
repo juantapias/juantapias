@@ -63,7 +63,7 @@ Un espacio donde el arte digital cobra vida con interacciones dinámicas y exper
 
 Juego experimental donde la simplicidad visual se une a la profundidad narrativa.
 
-### [🔬 Dashboard de Datos](#)
+### [🔬 Dashboard de Datos](https://github.com/juantapias/dashboard)
 
 Una plataforma intuitiva para visualizar datos de manera elegante y eficiente.
 
